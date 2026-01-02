@@ -1,0 +1,5 @@
+Ahmet Yılmaz::25 yaşında, İstanbul'da yaşıyor. Python öğreniyor.
+efekaan koçer::19 yaşında, Ankara'da çalışıyor. Siber güvenliğe ilgi duyuyor.
+Ayşe Demir::22 yaşında, üniversite öğrencisi. Web geliştirme öğreniyor.
+Elif Çetin::28 yaşında, İzmir'de yaşıyor. Veri analizi ile ilgileniyor.
+Can Arslan::35 yaşında, freelance çalışıyor. Linux ve ağ konularında bilgili.
